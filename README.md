@@ -1,4 +1,4 @@
-# ouse-platform
+# PreSale House-Platform
 A practice of housing platform using bootstrap
 
 網頁預覽：
