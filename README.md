@@ -1,5 +1,5 @@
 # PreSale House-Platform
-A practice of housing platform using bootstrap
+A practice of presale housing platform using bootstrap
 
 網頁預覽：
 
