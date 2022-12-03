@@ -8,7 +8,7 @@
 
 網頁說明：
 
-1.透過Bootstrap 熟悉 RWD 及 flex、padding等 排版應用
+1.透過Bootstrap 熟悉 RWD 及 flex、padding、margin等排版應用
 
 2.使用元件拆解頁面、組合套件，建立出一個「建築預售資訊主頁」
 
